@@ -1,6 +1,7 @@
 # Kepler.exe
 
 This is my brand new GDI malware inspired by ArTicZera's malwares. It only took me a little over a week to create and I think it turned out well. I still have lots of improvement to do in making malwares.
+Let me know about any bugs or problems.
 
 Some of the things Kepler does are:
 - ☠️ Overwriting the MBR (Master Boot Record)
