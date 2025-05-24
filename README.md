@@ -21,7 +21,7 @@ Watch my video of this malware here: https://youtu.be/SCtawHekFIw
 This is a destructive malware! Above are all the malicious things it does.
 I'm not responsible for any damage done. There will be 2 warnings before starting the malware.
 There is no safety version of this, only the destructive one! So running it will kill your PC.
-I designed this to run on Windows XP, but it will probably work on newer versions of Windows.
+I designed this to run on Windows XP x64, but it will probably work on newer versions of Windows.
 
 To Skids: If you steal any effects you must credit me and make your malware open source.
 
