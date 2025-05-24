@@ -14,6 +14,8 @@ Some of the things Kepler does are:
 - 🎵 Playing bytebeats
 - And much more (not really lol)
 
+Watch my video of this malware here: https://youtu.be/SCtawHekFIw
+
 # ⚠️ Warning ⚠️
 
 This is a destructive malware! Above are all the malicious things it does.
